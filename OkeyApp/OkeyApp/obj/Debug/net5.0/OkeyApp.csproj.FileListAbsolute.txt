@@ -1,0 +1,16 @@
+C:\Users\Furkan\Desktop\Digitoy\okey\OkeyApp\OkeyApp\bin\Debug\net5.0\OkeyApp.exe
+C:\Users\Furkan\Desktop\Digitoy\okey\OkeyApp\OkeyApp\bin\Debug\net5.0\OkeyApp.deps.json
+C:\Users\Furkan\Desktop\Digitoy\okey\OkeyApp\OkeyApp\bin\Debug\net5.0\OkeyApp.runtimeconfig.json
+C:\Users\Furkan\Desktop\Digitoy\okey\OkeyApp\OkeyApp\bin\Debug\net5.0\OkeyApp.runtimeconfig.dev.json
+C:\Users\Furkan\Desktop\Digitoy\okey\OkeyApp\OkeyApp\bin\Debug\net5.0\OkeyApp.dll
+C:\Users\Furkan\Desktop\Digitoy\okey\OkeyApp\OkeyApp\bin\Debug\net5.0\ref\OkeyApp.dll
+C:\Users\Furkan\Desktop\Digitoy\okey\OkeyApp\OkeyApp\bin\Debug\net5.0\OkeyApp.pdb
+C:\Users\Furkan\Desktop\Digitoy\okey\OkeyApp\OkeyApp\obj\Debug\net5.0\OkeyApp.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Digitoy\okey\OkeyApp\OkeyApp\obj\Debug\net5.0\OkeyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\Desktop\Digitoy\okey\OkeyApp\OkeyApp\obj\Debug\net5.0\OkeyApp.AssemblyInfoInputs.cache
+C:\Users\Furkan\Desktop\Digitoy\okey\OkeyApp\OkeyApp\obj\Debug\net5.0\OkeyApp.AssemblyInfo.cs
+C:\Users\Furkan\Desktop\Digitoy\okey\OkeyApp\OkeyApp\obj\Debug\net5.0\OkeyApp.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Digitoy\okey\OkeyApp\OkeyApp\obj\Debug\net5.0\OkeyApp.dll
+C:\Users\Furkan\Desktop\Digitoy\okey\OkeyApp\OkeyApp\obj\Debug\net5.0\ref\OkeyApp.dll
+C:\Users\Furkan\Desktop\Digitoy\okey\OkeyApp\OkeyApp\obj\Debug\net5.0\OkeyApp.pdb
+C:\Users\Furkan\Desktop\Digitoy\okey\OkeyApp\OkeyApp\obj\Debug\net5.0\OkeyApp.genruntimeconfig.cache
